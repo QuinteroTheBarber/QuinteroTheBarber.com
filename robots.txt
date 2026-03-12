@@ -1,0 +1,5 @@
+User-agent: * Allow: / 
+Allow: /assets/ 
+
+# Sitemaps 
+Sitemap: https://quinterothebarber.com/sitemap.xml
